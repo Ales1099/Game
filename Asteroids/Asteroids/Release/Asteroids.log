@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\asteroids\asteroids\main.cpp(4): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  mat3f.cpp
+c:\asteroids\asteroids\mat3f.cpp(37): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+  shader.cpp
+c:\asteroids\asteroids\shader.h(6): fatal error C1083: Не удается открыть файл включение: GL/glew.h: No such file or directory,
+  vec2f.cpp
+  vec3f.cpp
+  vec4f.cpp
